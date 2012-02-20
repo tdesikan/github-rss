@@ -1,0 +1,13 @@
+credentials:
+  username : tdesikan
+  password : password
+  apitoken : 123asdf 
+
+collections:
+  - name: tdesikan
+    branches:
+      - all
+  - name: user_or_org_name
+    branches:
+      - master
+      - deploy
